@@ -28,3 +28,11 @@ I'm passionate about building powerful web apps with clean UIs. Currently explor
 
 ---
 ⭐️ From [shivam108ku](https://github.com/shivam108ku)
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/github-snake.svg" />
+</picture>
+
