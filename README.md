@@ -24,9 +24,12 @@ I'm passionate about building powerful web apps with clean UIs. Currently explor
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/dist/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam108ku/shivam108ku/output/github-snake.svg" />
 </picture>
+
+
+ 
 
 
